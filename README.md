@@ -1,4 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Edoardo%20Ruffi&fontSize=75&animation=fadeIn&fontAlignY=38&desc=Full-stack%20web%20developer%20from%20Italy&descAlignY=51&descAlign=62)
+
+---
+🔗 Reach out
+
+<a href="https://www.linkedin.com/in/edoardoruffi/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="Linkedin Logo" width="50" height="50"/></a>
+
 ---
 🧰 Toolbox
 
