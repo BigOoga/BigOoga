@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Edoardo%20Ruffi&fontSize=75&animation=fadeIn&fontAlignY=38&desc=Full-stack%20web%20developer%20from%20Italy&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&&color=0:16BFFD,100:CB3066&height=215&section=header&text=Edoardo%20Ruffi&fontSize=75&fontColor=FFF&&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20web%20developer%20from%20Italy&descAlignY=51&descAlign=62)
 
 ---
 🔗 Reach out
