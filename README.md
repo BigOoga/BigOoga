@@ -18,10 +18,14 @@
 <a href="https://www.php.net" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="PHP Logo" width="50" height="50"/></a>
 <a href="https://laravel.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/laravel-1.svg" alt="Laravel Logo" width="50" height="50"/></a>
 <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="MySQL Logo" width="50" height="50"/></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="GIT Logo" width="50" height="50"/></a>
 <a href="https://www.python.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/></a>
 <a href="https://www.cplusplus.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++ Logo" width="50" height="50"/></a>
 <a href="https://www.sas.com" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/sas-6.svg" alt="SAS Logo" width="50" height="50"/></a>
+<a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" alt="Jira Logo" width="50" height="50"/></a>
+<a href="https://bitbucket.org/product" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/bitbucket-icon.svg" alt="SAS Logo" width="50" height="50"/></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="GIT Logo" width="50" height="50"/></a>
+
+
 
 
 
