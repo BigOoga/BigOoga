@@ -15,6 +15,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript Logo" width="50" height="50"/></a>
 <a href="https://vuejs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="VUE Logo" width="50" height="50"/></a>
 <a href="https://reactjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="React Logo" width="50" height="50"/></a>
+<a href="https://styled-components.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg" alt="styled-components Logo" width="50" height="50"/></a>
 <a href="https://www.php.net" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="PHP Logo" width="50" height="50"/></a>
 <a href="https://laravel.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/laravel-1.svg" alt="Laravel Logo" width="50" height="50"/></a>
 <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="MySQL Logo" width="50" height="50"/></a>
