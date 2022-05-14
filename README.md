@@ -36,4 +36,5 @@
 &#x1f4c8; My GitHub Stats
 
 [![Top Langs](https://github-readme-stats-gamma-two-38.vercel.app/api/top-langs/?username=BigOoga&layout=compact&hide=java,html,css,jupyter%20notebook&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![BigOoga's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=BigOoga)](https://github.com/anuraghazra/github-readme-stats)
 
